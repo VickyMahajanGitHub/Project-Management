@@ -22,7 +22,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://project-management-five-gamma.vercel.app",
+      "https://project-management-psi-three.vercel.app/",
     ],
     credentials: true,
   })
