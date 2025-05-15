@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vicky Mahajan",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

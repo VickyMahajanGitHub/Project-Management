@@ -1,8 +1,10 @@
+export const BASE_URL = "https://project-management-backend-blue.vercel.app";
+
 export const AUTHURL =
-  "https://project-management-backend-blue.vercel.app/api/auth";
+  `${BASE_URL}/api/auth`;
 export const PROJECTURL =
-  "https://project-management-backend-blue.vercel.app/api/project";
+  `${BASE_URL}/api/project`;
 export const TASKURL =
-  "https://project-management-backend-blue.vercel.app/api/task";
+  `${BASE_URL}/api/task`;
 export const ACTIVITYURL =
-  "https://project-management-backend-blue.vercel.app/api/activity";
+  `${BASE_URL}/api/activity`;
