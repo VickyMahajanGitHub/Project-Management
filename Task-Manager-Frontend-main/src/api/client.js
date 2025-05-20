@@ -1,4 +1,4 @@
-export const BASE_URL = "https://project-management-kappa-jet.vercel.app/";
+export const BASE_URL = "https://project-management-kappa-jet.vercel.app";
 
 export const AUTHURL =
   `${BASE_URL}/api/auth`;
